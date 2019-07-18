@@ -1,9 +1,11 @@
 # AtividadeMarkdownCurriculum
 
-**Patrícia Mestre Moreno Ribeiro
+**Patrícia Mestre Moreno Ribeiro**
 
 **Endereço:** Rua Porto Rico, 410 – Parque das Nações – Americana/SP
+
 **Nascimento:** 06/04/1990
+
 **Estado Civil:** Divorciada
 
 E-mail: patriciamesttre@hotmail.com
