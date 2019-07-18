@@ -2,7 +2,7 @@
 
 # **Patrícia Mestre Moreno Ribeiro**
 
-**Endereço:** Rua Porto Rico, 410 – Parque das Nações – Americana/SP
+**Endereço:** Rua Porto Rico, 410 – Parque das Nações – **Americana/SP**
 
 **Nascimento:** 06/04/1990
 
@@ -17,7 +17,7 @@
 **[GitHub]** (https://github.com/patriciamesttre)
 
 ```
-OBJETIVO:Estágio em Programação;
+**OBJETIVO:Estágio em Programação;**
 ```
 
 **FORMAÇÃO ACADÊMICA:**
