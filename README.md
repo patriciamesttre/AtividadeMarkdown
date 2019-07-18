@@ -20,33 +20,33 @@
 **OBJETIVO:Estágio em Programação**;
 ```
 
-**FORMAÇÃO ACADÊMICA:**
+**FORMAÇÃO ACADÊMICA:
 
 ● Ensino Médio – Completo
 
 ● Técnico em Programação de Jogos Digitais – SENAC Americana (2018) – Cursando.
 
-CURSOS PROFISSIONALIZANTES:
+**CURSOS PROFISSIONALIZANTES:
 
 ● Informática: Ws Company (Windows, Word e Excel) – 2002
 
 ● Hardware – Microlins - 10/10/2004 a 08/10/2005
 
-HISTÓRICO PROFISSIONAL:
+**HISTÓRICO PROFISSIONAL:
 
-● NET
+● **NET
 
 Cargo: Telemarketing- op. Nível 1 - Período: 09/09/2008 a 02/12/2008.
 
-● SUPERMERCADO PAULISTÃO
+● **SUPERMERCADO PAULISTÃO
 
 Cargo: Empacotadora - Período: 15/12/2009 a 04/10/2010
 
-● SUPERMERCADO EXTRA
+● **SUPERMERCADO EXTRA
 
 Cargo: Op. De Supermercado- Período 15/12/2010 a 31/12/2010-Temp. Final de ano
 
-● DOMÍNIO DO BRASIL - SEGURANÇA ELETRÔNICA
+● **DOMÍNIO DO BRASIL - SEGURANÇA ELETRÔNICA
 
 Cargo: Monitor (a) interno - Período 12/09/2011 a 14/07/2016
 
