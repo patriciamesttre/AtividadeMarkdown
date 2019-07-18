@@ -8,17 +8,18 @@
 
 **Estado Civil:** Divorciada
 
-E-mail: patriciamesttre@hotmail.com
+**[E-mail]**: (patriciamesttre@hotmail.com)
 
-Celular: (19) 99154-6074
+**Celular:** (19) 99154-6074
 
 CNH: B
 
-https://github.com/patriciamesttre
+**[GitHub]** (https://github.com/patriciamesttre)
+```
+**OBJETIVO: Estágio em Programação**;
+```
 
-OBJETIVO: Estágio em Programação
-
-FORMAÇÃO ACADÊMICA:
+**FORMAÇÃO ACADÊMICA:**
 
 ● Ensino Médio – Completo
 
