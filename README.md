@@ -12,11 +12,12 @@
 
 **Celular:** (19) 99154-6074
 
-CNH: B
+**CNH:** B
 
 **[GitHub]** (https://github.com/patriciamesttre)
+
 ```
-**OBJETIVO: Estágio em Programação**;
+**OBJETIVO:** **Estágio em Programação**;
 ```
 
 **FORMAÇÃO ACADÊMICA:**
