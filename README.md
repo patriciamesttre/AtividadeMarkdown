@@ -16,9 +16,9 @@
 
 **[GitHub]** (https://github.com/patriciamesttre)
 
-```
-**OBJETIVO:Estágio em Programação;**
-```
+**```
+OBJETIVO:Estágio em Programação;
+```**
 
 **FORMAÇÃO ACADÊMICA:**
 
@@ -50,4 +50,4 @@ Cargo: Op. De Supermercado- Período 15/12/2010 a 31/12/2010-Temp. Final de ano
 
 Cargo: Monitor (a) interno - Período 12/09/2011 a 14/07/2016
 
-● Atualmente tendo experiência com as linguagens de programação: Java, C#, Java Script (Notepad++/Visual Studio/ Xampp) e Banco de dados - Mysql.
+● Atualmente tendo experiência com as linguagens de programação: Java, C#(Visual Studio/ Unity), Java Script (Notepad++/Xampp) e Banco de dados - Mysql.
