@@ -17,7 +17,7 @@
 **[GitHub]** (https://github.com/patriciamesttre)
 
 ```
-**OBJETIVO:** **Estágio em Programação**;
+**OBJETIVO:Estágio em Programação**;
 ```
 
 **FORMAÇÃO ACADÊMICA:**
