@@ -20,7 +20,7 @@
 **OBJETIVO:Estágio em Programação**;
 ```
 
-**FORMAÇÃO ACADÊMICA:
+**FORMAÇÃO ACADÊMICA:**
 
 ● Ensino Médio – Completo
 
